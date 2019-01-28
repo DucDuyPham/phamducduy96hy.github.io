@@ -1,0 +1,12 @@
+.sanpham {
+    text-align: center;
+    color:  #147718;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+.anh  img{
+    border-radius: 15px;
+}
+a.nav-link {
+    color: #147718;
+}
